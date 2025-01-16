@@ -12,6 +12,7 @@ ARGV.each do |arg|
     # convert to integer
     i_arg = arg.to_i
     
+     # adds the integer to the list
     result << i_arg
 end
 
